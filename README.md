@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 </div>
 
 ## My Links
-- [Porfolio]("https://pedrofelippevidinha.github.io/portifolio/")
-- [Linkedin]("https://www.linkedin.com/in/pedro-felippe-gon%C3%A7alves-vidinha-de-oliveira/")
+- [Porfolio](https://pedrofelippevidinha.github.io/portifolio/)
+- [Linkedin](https://www.linkedin.com/in/pedro-felippe-gon%C3%A7alves-vidinha-de-oliveira/)
