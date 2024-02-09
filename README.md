@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **PedroFelippeVidinha/PedroFelippeVidinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <div>
 <a href="https://github.com/PedroFelippeVidinha">
@@ -27,16 +26,16 @@ Here are some ideas to get you started:
 
 </div>
   
-  <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="PedroVidinha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PedroVidinha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="PedroVidinha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="PedroVidinha-nextjs" height="30" width="40" src="https://cdn.discordapp.com/attachments/393932710688587777/882242901415977000/next.png">
   <img align="center" alt="PedroVidinha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroVidinha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PedroVidinha-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg>
+  <img align="center" alt="PedroVidinha-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
 ## My Links
-- [Porfolio](https://pedrofelippevidinha.github.io/portifolio/)
-- [Linkedin](https://www.linkedin.com/in/pedro-felippe-gon%C3%A7alves-vidinha-de-oliveira/)
+- [Porfolio]("https://pedrofelippevidinha.github.io/portifolio/")
+- [Linkedin]("https://www.linkedin.com/in/pedro-felippe-gon%C3%A7alves-vidinha-de-oliveira/")
