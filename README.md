@@ -1,18 +1,20 @@
-### Hi there 👋
+# Hello World, i'm Pedro Vidinha! 👋
+-------------------------------------
 
-**PedroFelippeVidinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gif Programmer Coffee](https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif)
+![(https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)]
 
-Here are some ideas to get you started:
+-------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💬 Olá a todos! Me chamo Pedro Vidinha.
 
+Sou um entusiasta da tecnologia apaixonado por transformar ideias em realidade por meio do código. Com experiência em diversas tecnologias, desde Php, JavaScript e TypeScript até frameworks como Laravel, React e Next.js, estou constantemente buscando desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades de desenvolvimento.
+
+Ao longo da minha jornada, adquiri expertise em projetos que envolvem não apenas o front-end com HTML5, CSS3 e interfaces responsivas, mas também o back-end, onde utilizo PHP para criar aplicações robustas e eficientes. Meu compromisso com a excelência técnica se reflete não apenas nos projetos pessoais que mantenho em meu portfólio, mas também em minha colaboração com equipes, onde busco sempre aprender com os outros e contribuir de maneira significativa para o sucesso coletivo.
+
+Além de meu envolvimento prático com tecnologia, mantenho-me atualizado com as últimas tendências e melhores práticas do setor, garantindo que minhas soluções não apenas atendam, mas superem as expectativas dos usuários finais. Se você está procurando um desenvolvedor dedicado, apaixonado e pronto para enfrentar novos desafios, estou animado para discutir como posso agregar valor ao seu próximo projeto.
+
+Convido você a explorar mais sobre meu trabalho e conectarmos através do meu LinkedIn. Estou ansioso para as oportunidades que o futuro reserva no mundo da programação!
 
 <div>
 <a href="https://github.com/PedroFelippeVidinha">
@@ -27,13 +29,16 @@ Here are some ideas to get you started:
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="PedroVidinha-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="PedroVidinha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PedroVidinha-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="PedroVidinha-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="PedroVidinha-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="PedroVidinha-nextjs" height="30" width="40" src="https://cdn.discordapp.com/attachments/393932710688587777/882242901415977000/next.png">
+  <img align="center" alt="PedroVidinha-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="PedroVidinha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PedroVidinha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PedroVidinha-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="PedroVidinha-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="PedroVidinha-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
 ## My Links
