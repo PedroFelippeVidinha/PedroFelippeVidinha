@@ -14,9 +14,8 @@ Ao longo da minha jornada, adquiri expertise em projetos que envolvem não apena
 Além de meu envolvimento prático com tecnologia, mantenho-me atualizado com as últimas tendências e melhores práticas do setor, garantindo que minhas soluções não apenas atendam, mas superem as expectativas dos usuários finais. Se você está procurando um desenvolvedor dedicado, apaixonado e pronto para enfrentar novos desafios, estou animado para discutir como posso agregar valor ao seu próximo projeto.
 
 Convido você a explorar mais sobre meu trabalho e conectarmos através do meu LinkedIn. Estou ansioso para as oportunidades que o futuro reserva no mundo da programação!
----------------------------------------------
 
-<img alt="Gif-Programmer" height="30" width="100px" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img alt="Gif-Programmer" width="100px" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
 ---------------------------------------
 
