@@ -21,12 +21,12 @@ Convido você a explorar mais sobre meu trabalho e conectarmos através do meu L
 
 <div>
 <a href="https://github.com/PedroFelippeVidinha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFelippeVidinha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFelippeVidinha&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFelippeVidinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFelippeVidinha&layout=compact&langs_count=7&theme=dracula"/>
  </a>
  <a href="https://wakatime.com/@PedroFelippeVidinha" target="_blank" noopener noreferrer >
   
-  ![PedroFelippeVidinha stats](https://github-readme-stats.vercel.app/api/wakatime?username=@PedroFelippeVidinha&theme=dark)
+  ![PedroFelippeVidinha stats](https://github-readme-stats.vercel.app/api/wakatime?username=@PedroFelippeVidinha&theme=dracula)
  </a>
 
 </div>
